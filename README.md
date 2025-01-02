@@ -1,16 +1,21 @@
 ## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
 
-<!--
-**Fab76000/Fab76000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ?
+Je suis Fabienne, développeuse d'applications Java en reconversion professionnelle. Après plusieurs années dans la gestion de paies et l'administration du personnel, j'ai découvert ma passion pour le développement logiciel. Aujourd'hui, je me consacre à apprendre, pratiquer et créer des applications utiles et bien conçues.
 
-Here are some ideas to get you started:
+## Ce que j'aime faire :
+- 🌟 Développement d'applications Java (Spring Boot, Hibernate).
+- 🔍 Résolution de problèmes complexes avec des solutions élégantes.
+- 📚 Apprendre constamment grâce à des projets pratiques
+  
+## Technologies que j'utilise :
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌟 **Mon objectif actuel :** Devenir une développeuse Java full-stack accomplie.  
+📫 **Contactez-moi :** www.linkedin.com/in/fabienne-berges.com
