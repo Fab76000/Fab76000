@@ -1,7 +1,5 @@
 ## Hi there 👋
-# 👋 Bienvenue sur mon GitHub !
-
-## Qui suis-je ?
+### Qui suis-je ?
 Je suis Fabienne, développeuse d'applications Java en reconversion professionnelle. Après plusieurs années dans la gestion de paies et l'administration du personnel, j'ai découvert ma passion pour le développement logiciel. Aujourd'hui, je me consacre à apprendre, pratiquer et créer des applications utiles et bien conçues.
 
 ## Ce que j'aime faire :
