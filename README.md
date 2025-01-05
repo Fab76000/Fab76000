@@ -17,6 +17,6 @@ Je suis Fabienne, développeuse d'applications Java en reconversion professionne
 
 ---
 
-🌟 **Mon objectif actuel :** Devenir une développeuse Java full-stack accomplie.  
+🌟 **Mon objectif actuel :** Devenir une développeuse Java full-stack et m'améliorer en permanence 
 📫 **Contactez-moi :** www.linkedin.com/in/fabiennebergès
 
